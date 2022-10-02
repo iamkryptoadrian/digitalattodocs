@@ -2335,7 +2335,7 @@
             }));
             const s = {
                 production: !0,
-                serviceUrl: "https://api.blockcats.net/v1/api"
+                serviceUrl: ""
             }
         },
         B55N: function(e, t, n) {
